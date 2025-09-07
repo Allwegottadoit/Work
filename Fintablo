@@ -1,1 +1,4 @@
-
+{
+  "defaultSheetName": "Счета",
+  "balanceFields": ["group", "account", "balance"]
+}
